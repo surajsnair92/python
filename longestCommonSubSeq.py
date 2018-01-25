@@ -20,5 +20,5 @@ def longestCommon(str1, str2):
 
 if __name__ == '__main__':
     str1 = 'ABCGPATXB'
-    str2 = 'CTHPT'
+    str2 = 'CTHPTX'
     print longestCommon(str1, str2)
